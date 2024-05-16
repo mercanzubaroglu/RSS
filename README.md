@@ -1,1 +1,2 @@
 # RSS
+RSS (Rich Site Summary or Really Simple Syndication) is a standard for automatically aggregating the content of websites and presenting it to users.Websites create structured XML files in RSS format that present the site's current content with information such as title, summary and links. Using an RSS reader, users can subscribe to these feeds and follow content from different sources in one place.
